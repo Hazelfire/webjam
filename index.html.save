@@ -1,21 +1,20 @@
-<!DOCTYPE html>
+<.:qqq:wq
+!DOCTYPE html>
 <html>
   <head>
     <title>The most useful government website ever</title>
     <link href="styles.css" type="text/css" rel="stylesheet" />
   </head>
   <body>
-
-    <h1><font color ="#FF0000">Test</h1><font color = "#800000">
-    <p>This is a content.</p>
+<<<<<<< HEAD
+    <h1>This is a heading</h1>
+ˀ    <p>This is the content</p>
 	<img src ="https://images-na.ssl-images-amazon.com/images/I/71gI-IUNUkL._SY355_.jpg">
-
-
+    <img src="image.jpg" alt="Italian Trulli">
+=======
     <marquee><h1>Test</h1></marquee>
     <marquee><p>This is a content.</p></marquee>
     <marquee><img src ="https://images-na.ssl-images-amazon.com/images/I/71gI-IUNUkL._SY355_.jpg"></marquee>
-
-    <h3>Test</h3>
-    <img src="image.jpg" alt="Italian Trulli">
+>>>>>>> 474c8d455fd9a56d867ac4ec6d27e6a19120f9e3
   </body>
 </html>
